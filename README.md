@@ -55,8 +55,6 @@ Installed versions: ['0.4.22', '0.4.24', '0.5.0', '0.5.12', '0.5.16', '0.6.0', '
 
 ## 2. Rule-Setting
 
-[Rule-set Wiki](https://github.com/Namryeong-Kim/Join_Project_v2/wiki/Adding-Removing-a-new-detector)
-
 ### Adding a new detector
 
 ```bash
@@ -72,8 +70,6 @@ $ dream ruleset remove [Rule Name]
 ---
 
 ## 3. Detector
-
-[Detector Wiki](https://github.com/Namryeong-Kim/Join_Project_v2/wiki/Detector-Documentation)
 
 ### Vulnerability(vuln)
 
@@ -106,8 +102,6 @@ $ dream detect all [type] [target.sol] [contract name]
 ---
 
 ## 4. Code-Similarity
-
-[Code-Similarity Wiki](https://github.com/Namryeong-Kim/Join_Project_v2/wiki/Code-Similarity-Documentation)
 
 ### train
 
